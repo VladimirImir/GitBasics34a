@@ -140,7 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="functions.cpp" />
+    <ClCompile Include="fillrand.cpp" />
+    <ClCompile Include="print.cpp" />
+    <ClCompile Include="Sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h" />
